@@ -9,7 +9,7 @@
 | Kotlin                   | 2.0.21             |
 | Compile SDK              | 36                 |
 | Target SDK               | 36                 |
-| Minimum SDK              | 29                 |
+| Minimum SDK              | 28                 |
 | Java Version             | 17                 |
 
 ## License
